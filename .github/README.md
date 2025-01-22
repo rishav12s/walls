@@ -15,7 +15,7 @@
 </tr>
 <tr>
   <td>
-    <img alt="arch-chan" src="../arch-chan.png" width="260" height="150"/>
+    <img alt="arch-chan" src="../waifu-arch.png" width="260" height="150"/>
   </td>
   <td>
     <img alt="arch-distros" src="../arch-distros.png" width="260" height="150"/>
@@ -26,10 +26,10 @@
 </tr>
 <tr>
   <td>
-    <img alt="asteroid-miner" src="../asteroid-miner.png" width="260" height="150"/>
+    <img alt="asteroid-miner" src="../comfy.jpg" width="260" height="150"/>
   </td>
   <td>
-    <img alt="asteroids" src="../asteroids.png" width="260" height="150"/>
+    <img alt="asteroids" src="../astronaut-1.jpg" width="260" height="150"/>
   </td>
   <td>
     <img alt="astronaut-2" src="../astronaut-2.png" width="260" height="150"/>
@@ -43,12 +43,12 @@
     <img alt="aztec-mysteries" src="../aztec-mysteries.png" width="260" height="150"/>
   </td>
   <td>
-    <img alt="baby-star" src="../baby-star.png" width="260" height="150"/>
+    <img alt="baby-star" src="../balcony.png" width="260" height="150"/>
   </td>
 </tr>
 <tr>
   <td>
-    <img alt="black-hole" src="../black-hole.png" width="260" height="150"/>
+    <img alt="black-hole" src="../kurzgesagt-black-hole-4.png" width="260" height="150"/>
   </td>
   <td>
     <img alt="blue-kaiju" src="../blue-kaiju.png" width="260" height="150"/>
@@ -169,13 +169,13 @@
 </tr>
 <tr>
   <td>
-    <img alt="galaxies" src="../galaxies.png" width="260" height="150"/>
+    <img alt="galaxies" src="../kurzgesagt-galaxies.png" width="260" height="150"/>
   </td>
   <td>
-    <img alt="galaxy-2" src="../galaxy-2.png" width="260" height="150"/>
+    <img alt="galaxy-2" src="../kurzgesagt-galaxy-1.png" width="260" height="150"/>
   </td>
   <td>
-    <img alt="galaxy-3" src="../galaxy-3.png" width="260" height="150"/>
+    <img alt="galaxy-3" src="../kurzgesagt-galaxy-3.png" width="260" height="150"/>
   </td>
 </tr>
 <tr>
@@ -183,7 +183,7 @@
     <img alt="galaxy-waves" src="../galaxy-waves.jpg" width="260" height="150"/>
   </td>
   <td>
-    <img alt="galaxy" src="../galaxy.png" width="260" height="150"/>
+    <img alt="galaxy" src="../kurzgesagt-cosmic-islands.png" width="260" height="150"/>
   </td>
   <td>
     <img alt="girl" src="../girl.png" width="260" height="150"/>
@@ -224,7 +224,7 @@
 </tr>
 <tr>
   <td>
-    <img alt="kurz" src="../kurz.png" width="260" height="150"/>
+    <img alt="kurz" src="../kurzgesagt-asteroid-miner-1.png" width="260" height="150"/>
   </td>
   <td>
     <img alt="lake" src="../lake.png" width="260" height="150"/>
@@ -271,7 +271,7 @@
     <img alt="neon-man" src="../neon-man.png" width="260" height="150"/>
   </td>
   <td>
-    <img alt="neon" src="../neon.png" width="260" height="150"/>
+    <img alt="neon" src="../neon-2.png" width="260" height="150"/>
   </td>
   <td>
     <img alt="night-city" src="../night-city.png" width="260" height="150"/>
@@ -307,7 +307,7 @@
     <img alt="purpled-night" src="../purpled-night.jpg" width="260" height="150"/>
   </td>
   <td>
-    <img alt="quasar" src="../quasar.png" width="260" height="150"/>
+    <img alt="quasar" src="../kurzgesagt-cloudy-quasar-1.png" width="260" height="150"/>
   </td>
 </tr>
 <tr>
@@ -329,7 +329,7 @@
     <img alt="sakura-gate" src="../sakura-gate.jpg" width="260" height="150"/>
   </td>
   <td>
-    <img alt="sakura" src="../sakura.png" width="260" height="150"/>
+    <img alt="sakura" src="../samurai-bebop-2.png" width="260" height="150"/>
   </td>
 </tr>
 <tr>
@@ -337,7 +337,7 @@
     <img alt="samurai-geralt" src="../samurai-geralt.png" width="260" height="150"/>
   </td>
   <td>
-    <img alt="saturn" src="../saturn.jpg" width="260" height="150"/>
+    <img alt="saturn" src="../sky.jpg" width="260" height="150"/>
   </td>
   <td>
     <img alt="scenery" src="../scenery.png" width="260" height="150"/>
@@ -378,7 +378,7 @@
 </tr>
 <tr>
   <td>
-    <img alt="stars" src="../stars.png" width="260" height="150"/>
+    <img alt="stars" src="../witcher-1.png" width="260" height="150"/>
   </td>
   <td>
     <img alt="street" src="../street.jpg" width="260" height="150"/>
@@ -406,7 +406,7 @@
     <img alt="underwater" src="../underwater.png" width="260" height="150"/>
   </td>
   <td>
-    <img alt="voxel-houses-monochrome" src="../voxel-houses-monochrome.png" width="260" height="150"/>
+    <img alt="voxel-houses-monochrome" src="../voxel-houses.png" width="260" height="150"/>
   </td>
 </tr>
 <tr>

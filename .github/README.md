@@ -37,7 +37,7 @@
 </tr>
 <tr>
   <td>
-    <img alt="astronaut" src="../astronaut.png" width="260" height="150"/>
+    <img alt="astronaut" src="../cat.png" width="260" height="150"/>
   </td>
   <td>
     <img alt="aztec-mysteries" src="../aztec-mysteries.png" width="260" height="150"/>

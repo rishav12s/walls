@@ -235,10 +235,10 @@
 </tr>
 <tr>
   <td>
-    <img alt="lofi-girl-2" src="../lofi-girl-2.jpg" width="260" height="150"/>
+    <img alt="lofi-girl-2" src="../lofi-girl-1.jpg" width="260" height="150"/>
   </td>
   <td>
-    <img alt="lofi-girl" src="../lofi-girl.jpg" width="260" height="150"/>
+    <img alt="lofi-girl" src="../lofi-girl-2.jpg" width="260" height="150"/>
   </td>
   <td>
     <img alt="marine-tunnel" src="../marine-tunnel.jpg" width="260" height="150"/>
